@@ -38,6 +38,7 @@ Sample Metrics:
 Mean Absolute Error: 0.14
 R-squared: 0.87
 
+
 Generated Plots:
 
 1. Correlation Heatmap
@@ -56,10 +57,10 @@ Methodology
 
 Future Improvements
 
-Hyperparameter tuning
-Cross-validation
-Add seismic/geospatial features
-Experiment with ensemble models
+- Hyperparameter tuning  
+- Cross-validation  
+- Add seismic/geospatial features  
+- Experiment with ensemble models 
 
 
 # Earthquake Building Damage Prediction
