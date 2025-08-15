@@ -26,7 +26,7 @@ Columns:
 pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost
 
 ## How to Run
-1. Open the notebook in Google Colab (https://colab.research.google.com/) or download it locally.
+1. Open the notebook in Google Colab.
 2. Install required Python packages (if running locally):
    ```bash
    pip install pandas numpy seaborn matplotlib scikit-learn xgboost
